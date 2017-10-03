@@ -1,0 +1,5 @@
+git clone https://github.com/tonirenato/test.git  -- clone git repository 
+git status -- get status of git, files to add rename modify or remove
+git add -A  -- add all file to current commit
+git commit -m "desc" -- commits changes
+git push -- makes changes to git server
